@@ -1,0 +1,46 @@
+*{
+  font-family: Arial;
+  text-decoration:none;
+}
+#home .wrapper h1{
+  font-size: 35px;
+}
+#home header div.box a{
+  float: right;
+}
+#home header div.box{
+  display: inline-block;
+  padding-left: 1200px;
+}
+#home header a {
+  padding-left: 100px;
+}
+#home .wrapper #mko{
+  border: 1px solid black;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  padding-top: 10px;
+}
+#home .wrapper #mko a{
+color: black;
+}
+header a{
+  color: black;
+}
+#home .wrapper .l-box{
+  background: white;
+  width: 500px;
+  padding-left: 50px;
+  height: 30vh;
+  font-size: 20px;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: center;
+  display: block;
+  margin-left: 30px;
+}
+body{
+  background-color:rgb(255, 235, 213);;
+  color: rgb(190, 155, 37);
+}
